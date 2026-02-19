@@ -1,0 +1,1 @@
+This project presents a hybrid PSO-DQN path planning framework for autonomous UAV navigation in cluttered 3D environments. By combining swarm intelligence with deep reinforcement learning, the system achieves efficient global exploration while adapting locally to obstacle constraints in both static and dynamic benchmarks
